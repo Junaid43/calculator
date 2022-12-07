@@ -1,10 +1,10 @@
 {
-  "name": "junaid-tariq-calculator",
-  "version": "1.2.0",
+  "name": "junaid-tariq-calculator21",
+  "version": "2.4.3",
   "description": "",
   "main": "index.js",
   "type": "module",
-  "bin": "./index.js",
+  "bin": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
