@@ -7,7 +7,7 @@ import chalkAnimation from "chalk-animation"
 
 export async function calculationValue() {
 
-    const calculatorIntro = chalkAnimation.karaoke('Now you will calculate the value by adding two number');
+    const calculatorIntro = chalkAnimation.karaoke('Now you will calculate the result by two number');
     calculatorIntro.start(); // Animation start
 
     await stopAnimation();
